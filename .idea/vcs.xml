@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-windows" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/operating_system/operating_system-windows_common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/archive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/archive/archive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/bzip2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/iconv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/id3lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/idn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/minizip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/mpg123" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/openddlparser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/pcre" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/pugixml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/sqlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/tinyobjloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/unac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/zip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/zlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/base/zstd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/debugbreak" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/jwt-cpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/nanosvg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/picojson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/rapidjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/common/rapidjson/thirdparty/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/database" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/database/libmysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics/cairo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics/clipper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics/pixman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/graphics/poly2tri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_freeimage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_jpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_jxr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_openexr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_openjpeg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_png" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_rawlite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_tiff4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/port_webp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/imaging/tinyexr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/source/remoting" vcs="Git" />
+  </component>
+</project>
