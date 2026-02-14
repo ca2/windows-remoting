@@ -1,0 +1,12 @@
+[submodule "operating_system"]
+	path = operating_system
+	url = ../windows-operating_system
+	branch = main
+[submodule "port"]
+	path = port
+	url = ../windows-port
+	branch = main
+[submodule "source"]
+	path = source
+	url = ../remoting-source
+	branch = main
