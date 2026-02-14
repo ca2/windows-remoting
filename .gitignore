@@ -1,0 +1,15 @@
+time-*/
+workspace.xml
+cmake-build-*/
+cmake-time-*/
+**/doxygen.directory
+**/.vs
+**/Debug
+build/
+solution-android/packages
+solution-windows/packages
+solution-universal_windows/packages
+solution-universal_windows/AppPackages
+_matter.zip
+_packages.txt
+_packages.txt
