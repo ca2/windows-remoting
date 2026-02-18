@@ -46,7 +46,7 @@ include(source/app/_.cmake)
 #
 #
 #include_directories(.)
-#include_directories($ENV{HOME}/__config)
+##include_directories($HOME_AAA_DIR/__aaa_config)
 #include_directories(${CMAKE_CURRENT_SOURCE_DIR}/source)
 #include_directories(${CMAKE_CURRENT_SOURCE_DIR}/source/app)
 #include_directories(${CMAKE_CURRENT_SOURCE_DIR}/source/app/_include)
