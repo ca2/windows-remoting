@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="_remoting_remoting" type="CMakeRunConfiguration" factoryName="Application" folderName="_001" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="_remoting_remoting" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="_remoting_remoting">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
