@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "apex_windows_common", "..\o
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "networking_bsd", "..\source\app\networking_bsd\networking_bsd.vcxproj", "{46D7D9C9-7B52-4DC6-AF84-46A5E3CDC43D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypto_openssl", "..\source\app\crypto_openssl\crypto_openssl.vcxproj", "{D08014E6-E329-41CF-81B5-957C290A4AA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -141,6 +143,14 @@ Global
 		{46D7D9C9-7B52-4DC6-AF84-46A5E3CDC43D}.Release|Win32.Build.0 = Release|Win32
 		{46D7D9C9-7B52-4DC6-AF84-46A5E3CDC43D}.Release|x64.ActiveCfg = Release|x64
 		{46D7D9C9-7B52-4DC6-AF84-46A5E3CDC43D}.Release|x64.Build.0 = Release|x64
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Debug|Win32.Build.0 = Debug|Win32
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Debug|x64.ActiveCfg = Debug|x64
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Debug|x64.Build.0 = Debug|x64
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|Win32.ActiveCfg = Release|Win32
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|Win32.Build.0 = Release|Win32
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|x64.ActiveCfg = Release|x64
+		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
