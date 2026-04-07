@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "networking_bsd", "..\source
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypto_openssl", "..\source\app\crypto_openssl\crypto_openssl.vcxproj", "{D08014E6-E329-41CF-81B5-957C290A4AA8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_subsystem_win32", "..\operating_system\operating_system-windows\innate_subsystem_win32\innate_subsystem_win32.vcxproj", "{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -151,6 +153,14 @@ Global
 		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|Win32.Build.0 = Release|Win32
 		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|x64.ActiveCfg = Release|x64
 		{D08014E6-E329-41CF-81B5-957C290A4AA8}.Release|x64.Build.0 = Release|x64
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|Win32.Build.0 = Debug|Win32
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|x64.ActiveCfg = Debug|x64
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|x64.Build.0 = Debug|x64
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|Win32.ActiveCfg = Release|Win32
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|Win32.Build.0 = Release|Win32
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.ActiveCfg = Release|x64
+		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
