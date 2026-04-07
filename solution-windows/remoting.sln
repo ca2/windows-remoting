@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypto_openssl", "..\source
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_subsystem_win32", "..\operating_system\operating_system-windows\innate_subsystem_win32\innate_subsystem_win32.vcxproj", "{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subsystem_win32", "..\operating_system\operating_system-windows\subsystem_win32\subsystem_win32.vcxproj", "{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -161,6 +163,14 @@ Global
 		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|Win32.Build.0 = Release|Win32
 		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.ActiveCfg = Release|x64
 		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.Build.0 = Release|x64
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Debug|Win32.Build.0 = Debug|Win32
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Debug|x64.ActiveCfg = Debug|x64
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Debug|x64.Build.0 = Debug|x64
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Release|Win32.ActiveCfg = Release|Win32
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Release|Win32.Build.0 = Release|Win32
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Release|x64.ActiveCfg = Release|x64
+		{F46E1B15-7A8A-4BBD-8DFA-85C7074E2DAA}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
