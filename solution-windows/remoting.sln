@@ -41,6 +41,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subsystem", "..\source\app\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "subsystem_bsd_sockets", "..\source\app\subsystem_bsd_sockets\subsystem_bsd_sockets.vcxproj", "{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_remoting_node_desktop", "..\source\remoting\remoting_node_desktop\remoting_remoting_node_desktop.vcxproj", "{EBFC3125-72A4-4029-9941-3BE9EE6444D5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_remoting_node_desktop", "..\source\remoting\remoting_node_desktop\__implement\shared_remoting_remoting_node_desktop.vcxproj", "{CB376856-E68C-43A1-BECE-98CA940813FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -201,6 +205,22 @@ Global
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|Win32.Build.0 = Release|Win32
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|x64.ActiveCfg = Release|x64
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|x64.Build.0 = Release|x64
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Debug|Win32.Build.0 = Debug|Win32
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Debug|x64.ActiveCfg = Debug|x64
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Debug|x64.Build.0 = Debug|x64
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|Win32.ActiveCfg = Release|Win32
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|Win32.Build.0 = Release|Win32
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|x64.ActiveCfg = Release|x64
+		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|x64.Build.0 = Release|x64
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Debug|Win32.Build.0 = Debug|Win32
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Debug|x64.ActiveCfg = Debug|x64
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Debug|x64.Build.0 = Debug|x64
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Release|Win32.ActiveCfg = Release|Win32
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Release|Win32.Build.0 = Release|Win32
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Release|x64.ActiveCfg = Release|x64
+		{CB376856-E68C-43A1-BECE-98CA940813FC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
