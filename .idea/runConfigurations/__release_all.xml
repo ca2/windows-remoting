@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="__release_all" type="CMakeRunConfiguration" factoryName="Application" folderName="_000" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="__release_all" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="_remoting_node_desktop">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
