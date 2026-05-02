@@ -41,9 +41,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_client", "..\sourc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_node_desktop", "..\source\remoting\node_desktop\remoting_node_desktop.vcxproj", "{EBFC3125-72A4-4029-9941-3BE9EE6444D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_remoting_node_desktop", "..\source\remoting\node_desktop\__implement\shared_remoting_node_desktop.vcxproj", "{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_node_desktop", "..\source\remoting\node_desktop\__implement\shared_remoting_node_desktop.vcxproj", "{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_remoting", "..\source\remoting\client\__implement\shared_remoting_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_client", "..\source\remoting\client\__implement\shared_remoting_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_windows", "..\source\remoting\remoting_windows\remoting_windows.vcxproj", "{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +223,14 @@ Global
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Release|Win32.Build.0 = Release|Win32
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Release|x64.ActiveCfg = Release|x64
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Release|x64.Build.0 = Release|x64
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Debug|Win32.Build.0 = Debug|Win32
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Debug|x64.ActiveCfg = Debug|x64
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Debug|x64.Build.0 = Debug|x64
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|Win32.ActiveCfg = Release|Win32
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|Win32.Build.0 = Release|Win32
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|x64.ActiveCfg = Release|x64
+		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
