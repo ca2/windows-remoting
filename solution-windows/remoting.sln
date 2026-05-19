@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_client", ".
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_windows", "..\source\remoting\remoting_windows\remoting_windows.vcxproj", "{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_ui_win32", "..\operating_system\operating_system-windows\innate_ui_win32\innate_ui_win32.vcxproj", "{1F20CF93-AE0B-4A16-A786-56A623C8726A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -231,6 +233,14 @@ Global
 		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|Win32.Build.0 = Release|Win32
 		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|x64.ActiveCfg = Release|x64
 		{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}.Release|x64.Build.0 = Release|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|Win32.Build.0 = Debug|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|x64.ActiveCfg = Debug|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|x64.Build.0 = Debug|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|Win32.ActiveCfg = Release|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|Win32.Build.0 = Release|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.ActiveCfg = Release|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
