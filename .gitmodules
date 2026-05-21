@@ -6,3 +6,7 @@
 	path = source
 	url = ../remoting-source
 	branch = main
+[submodule "port"]
+	path = port
+	url = ../../cpp-port/windows-remoting-port
+	branch = main
