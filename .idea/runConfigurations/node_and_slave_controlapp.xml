@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="node and slave controlapp" type="CompoundRunConfigurationType">
     <toRun name="_remoting_node_desktop" targetId="CMakeBuildProfile:Debug" type="CMakeRunConfiguration" />
-    <toRun name="node_controlapp" targetId="CMakeBuildProfile:Debug" type="CMakeRunConfiguration" />
+    <toRun name="_remoting_node_desktop_control" targetId="CMakeBuildProfile:Debug" type="CMakeRunConfiguration" />
     <method v="2" />
   </configuration>
 </component>

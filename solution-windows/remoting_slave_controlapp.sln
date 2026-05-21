@@ -41,13 +41,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_client", "..\sourc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_node_desktop", "..\source\remoting\node_desktop\remoting_node_desktop.vcxproj", "{EBFC3125-72A4-4029-9941-3BE9EE6444D5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_node_desktop", "..\source\remoting\node_desktop\__implement\shared_remoting_node_desktop.vcxproj", "{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_client", "..\source\remoting\client\__implement\shared_remoting_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_windows", "..\source\remoting\remoting_windows\remoting_windows.vcxproj", "{6B4D9782-F6E0-44C8-A658-270CC2B34DCF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_ui_win32", "..\operating_system\operating_system-windows\innate_ui_win32\innate_ui_win32.vcxproj", "{1F20CF93-AE0B-4A16-A786-56A623C8726A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_node_desktop_control", "..\source\remoting\node_desktop\__implement_control\shared_remoting_node_desktop_control.vcxproj", "{52EE0746-3D83-49E3-B459-E705F1CB4278}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -209,14 +209,6 @@ Global
 		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|Win32.Build.0 = Release|Win32
 		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|x64.ActiveCfg = Release|x64
 		{EBFC3125-72A4-4029-9941-3BE9EE6444D5}.Release|x64.Build.0 = Release|x64
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Debug|Win32.ActiveCfg = Debug|Win32
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Debug|Win32.Build.0 = Debug|Win32
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Debug|x64.ActiveCfg = Debug|x64
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Debug|x64.Build.0 = Debug|x64
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Release|Win32.ActiveCfg = Release|Win32
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Release|Win32.Build.0 = Release|Win32
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Release|x64.ActiveCfg = Release|x64
-		{5C3FBF49-7D9A-41EE-90D5-E5AF6F7C0E97}.Release|x64.Build.0 = Release|x64
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Debug|Win32.ActiveCfg = Debug|Win32
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Debug|Win32.Build.0 = Debug|Win32
 		{BE0222AE-71CA-41DB-8F40-265DEE5F7020}.Debug|x64.ActiveCfg = Debug|x64
@@ -241,6 +233,14 @@ Global
 		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|Win32.Build.0 = Release|Win32
 		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.ActiveCfg = Release|x64
 		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.Build.0 = Release|x64
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Debug|Win32.Build.0 = Debug|Win32
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Debug|x64.ActiveCfg = Debug|x64
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Debug|x64.Build.0 = Debug|x64
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Release|Win32.ActiveCfg = Release|Win32
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Release|Win32.Build.0 = Release|Win32
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Release|x64.ActiveCfg = Release|x64
+		{52EE0746-3D83-49E3-B459-E705F1CB4278}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -41,7 +41,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "draw2d_gdiplus", "..\operat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_remote_connect", "..\source\remoting\remote_connect\remoting_remote_connect.vcxproj", "{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_ui_win32", "..\operating_system\operating_system-windows\innate_ui_win32\innate_ui_win32.vcxproj", "{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_ui_win32", "..\operating_system\operating_system-windows\innate_ui_win32\innate_ui_win32.vcxproj", "{1F20CF93-AE0B-4A16-A786-56A623C8726A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "operating_ambient_windows", "..\operating_system\operating_system-windows\operating_ambient_windows\operating_ambient_windows.vcxproj", "{582D9C3D-77BB-44C9-962B-C4BA36713049}"
 EndProject
@@ -207,14 +207,14 @@ Global
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|Win32.Build.0 = Release|Win32
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|x64.ActiveCfg = Release|x64
 		{40F49B85-A888-4A1D-A7F5-7631F14A3D4A}.Release|x64.Build.0 = Release|x64
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|Win32.ActiveCfg = Debug|Win32
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|Win32.Build.0 = Debug|Win32
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|x64.ActiveCfg = Debug|x64
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Debug|x64.Build.0 = Debug|x64
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|Win32.ActiveCfg = Release|Win32
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|Win32.Build.0 = Release|Win32
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.ActiveCfg = Release|x64
-		{31F3D4C6-61F7-4E68-8C48-6DE00A2D7D78}.Release|x64.Build.0 = Release|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|Win32.Build.0 = Debug|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|x64.ActiveCfg = Debug|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Debug|x64.Build.0 = Debug|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|Win32.ActiveCfg = Release|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|Win32.Build.0 = Release|Win32
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.ActiveCfg = Release|x64
+		{1F20CF93-AE0B-4A16-A786-56A623C8726A}.Release|x64.Build.0 = Release|x64
 		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|Win32.ActiveCfg = Debug|Win32
 		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|Win32.Build.0 = Debug|Win32
 		{582D9C3D-77BB-44C9-962B-C4BA36713049}.Debug|x64.ActiveCfg = Debug|x64
