@@ -51,6 +51,20 @@
     <mapping directory="$PROJECT_DIR$/port/imaging/port_tiff4" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/imaging/port_webp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/port/imaging/tinyexr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel/deps/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel/deps/libjuice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel/deps/libsrtp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel/deps/plog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libdatachannel/libdatachannel/deps/usrsctp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libjuice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/libjuice/libjuice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/srtp2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/srtp2/srtp2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/usrsctp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/port/networking/usrsctp/usrsctp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/source/remoting" vcs="Git" />

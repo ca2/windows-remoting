@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="canada5 remoting_rdx" type="CMakeRunConfiguration" factoryName="Application" folderName="_RDX" PROGRAM_PARAMS="C:\Users\camilo\Desktop\canada5.camilothomas.com.remoting_rdx" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="main" TARGET_NAME="_remoting_rdx_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="main" RUN_TARGET_NAME="_remoting_rdx_client">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
