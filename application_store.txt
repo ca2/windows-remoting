@@ -1,3 +1,1 @@
-remoting/client
-remoting/node_desktop
-remoting/remote_connect
+remoting/rdx_client
