@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_rdx", "..\source\r
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_graphics_gdiplus", "..\operating_system\operating_system-windows\nano_graphics_gdiplus\nano_graphics_gdiplus.vcxproj", "{0031EFCA-4F29-4246-A014-9553E587A31F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_idn_windows_common", "..\operating_system\operating_system-windows_common\nano_idn_windows_common\nano_idn_windows_common.vcxproj", "{D13C126B-D461-46F6-8161-20F92811D2BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -211,6 +213,14 @@ Global
 		{0031EFCA-4F29-4246-A014-9553E587A31F}.Release|Win32.Build.0 = Release|Win32
 		{0031EFCA-4F29-4246-A014-9553E587A31F}.Release|x64.ActiveCfg = Release|x64
 		{0031EFCA-4F29-4246-A014-9553E587A31F}.Release|x64.Build.0 = Release|x64
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Debug|Win32.Build.0 = Debug|Win32
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Debug|x64.ActiveCfg = Debug|x64
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Debug|x64.Build.0 = Debug|x64
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|Win32.ActiveCfg = Release|Win32
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|Win32.Build.0 = Release|Win32
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|x64.ActiveCfg = Release|x64
+		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
