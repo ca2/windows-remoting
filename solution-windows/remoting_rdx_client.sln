@@ -45,6 +45,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_graphics_gdiplus", "..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_idn_windows_common", "..\operating_system\operating_system-windows_common\nano_idn_windows_common\nano_idn_windows_common.vcxproj", "{D13C126B-D461-46F6-8161-20F92811D2BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_http_wininet", "..\operating_system\operating_system-windows\nano_http_wininet\nano_http_wininet.vcxproj", "{561D6A90-AB6B-485F-9FC9-128BDA62C48C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_compress_windows", "..\operating_system\operating_system-windows_common\nano_compress_windows\nano_compress_windows.vcxproj", "{FDA73FEB-B96A-42BC-A83A-95881ED1F040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -221,6 +225,22 @@ Global
 		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|Win32.Build.0 = Release|Win32
 		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|x64.ActiveCfg = Release|x64
 		{D13C126B-D461-46F6-8161-20F92811D2BC}.Release|x64.Build.0 = Release|x64
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Debug|Win32.Build.0 = Debug|Win32
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Debug|x64.ActiveCfg = Debug|x64
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Debug|x64.Build.0 = Debug|x64
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|Win32.ActiveCfg = Release|Win32
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|Win32.Build.0 = Release|Win32
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|x64.ActiveCfg = Release|x64
+		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|x64.Build.0 = Release|x64
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Debug|Win32.Build.0 = Debug|Win32
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Debug|x64.ActiveCfg = Debug|x64
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Debug|x64.Build.0 = Debug|x64
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Release|Win32.ActiveCfg = Release|Win32
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Release|Win32.Build.0 = Release|Win32
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Release|x64.ActiveCfg = Release|x64
+		{FDA73FEB-B96A-42BC-A83A-95881ED1F040}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
