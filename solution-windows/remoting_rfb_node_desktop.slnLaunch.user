@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\source\\remoting\\rfb_node_desktop\\__implement\\shared_remoting_rfb_node_desktop.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
