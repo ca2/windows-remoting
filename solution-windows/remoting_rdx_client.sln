@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_compress_windows", "..
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_http_wininet", "..\operating_system\operating_system-windows\nano_http_wininet\nano_http_wininet.vcxproj", "{561D6A90-AB6B-485F-9FC9-128BDA62C48C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gdiplus_library", "..\operating_system\operating_system-windows\gdiplus_library\gdiplus_library.vcxproj", "{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -241,6 +243,14 @@ Global
 		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|Win32.Build.0 = Release|Win32
 		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|x64.ActiveCfg = Release|x64
 		{561D6A90-AB6B-485F-9FC9-128BDA62C48C}.Release|x64.Build.0 = Release|x64
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Debug|Win32.Build.0 = Debug|Win32
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Debug|x64.ActiveCfg = Debug|x64
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Debug|x64.Build.0 = Debug|x64
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Release|Win32.ActiveCfg = Release|Win32
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Release|Win32.Build.0 = Release|Win32
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Release|x64.ActiveCfg = Release|x64
+		{C70AA9E7-1EDA-404E-92EE-DCFF6AE4F54A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
