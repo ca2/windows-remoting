@@ -25,7 +25,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "networking_bsd", "..\source
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "crypto_openssl", "..\source\app\crypto_openssl\crypto_openssl.vcxproj", "{D08014E6-E329-41CF-81B5-957C290A4AA8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_remote_connect", "..\source\remoting\remote_connect\__implement\shared_remoting_remote_connect.vcxproj", "{6A2A54D2-D315-43C9-A696-3E54C70A4AA7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_remoting_remote_connect", "..\source\remoting\remote_connect\__implement\_remoting_remote_connect.vcxproj", "{6A2A54D2-D315-43C9-A696-3E54C70A4AA7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aura", "..\source\app\aura\aura.vcxproj", "{E000FFAF-392F-4E32-BF51-FD7ED638991F}"
 EndProject

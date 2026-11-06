@@ -41,7 +41,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_rfb", "..\source\r
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nano_graphics_gdiplus", "..\operating_system\operating_system-windows\nano_graphics_gdiplus\nano_graphics_gdiplus.vcxproj", "{0031EFCA-4F29-4246-A014-9553E587A31F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_rfb_client", "..\source\remoting\rfb_client\__implement\shared_remoting_rfb_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_remoting_rfb_client", "..\source\remoting\rfb_client\__implement\_remoting_rfb_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gdiplus_library", "..\operating_system\operating_system-windows\gdiplus_library\gdiplus_library.vcxproj", "{9A5FBFB1-76E6-4F7E-933A-328C1EEC95AF}"
 EndProject

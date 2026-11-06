@@ -37,7 +37,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "innate_ui_win32", "..\opera
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_rdx_client", "..\source\remoting\rdx_client\remoting_rdx_client.vcxproj", "{082F71AD-CDF6-44DE-84F7-9D2D16784B23}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shared_remoting_rdx_client", "..\source\remoting\rdx_client\__implement\shared_remoting_rdx_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_remoting_rdx_client", "..\source\remoting\rdx_client\__implement\_remoting_rdx_client.vcxproj", "{BE0222AE-71CA-41DB-8F40-265DEE5F7020}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "remoting_rdx", "..\source\remoting\remoting_rdx\remoting_rdx.vcxproj", "{D3004AB1-F82E-4FA4-B1F2-E15B582DB21D}"
 EndProject
